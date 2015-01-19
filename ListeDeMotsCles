@@ -1,0 +1,19 @@
+nomcomplet depend de la race : prenom nom sauf pour ZO, nom prenom
+nomperso : le nom du personnage sur le compte
+titre : le titre a afficher pour le personnage
+nom le nom de famille
+prenom le prenom
+sexe M ou F
+race MA TRY FY ou ZO
+idimage numéro de l'image du perso
+nomurl : nomcomplet avec les espaces remplacés par _
+role : exemple : Fonctionnaire impériale du Désert Ardent, en poste à Thesos depuis le 4e CA de 2571. C'est une homine, Fyros et Patriote de l'Empire du Désert Ardent, née en 2485.
+	contient la fonction, le pays, vu/connu/en poste depuis le + date ig.
+resume : petite description, exemple : C'est une homine, Fyros et Patriote de l'Empire du Désert Ardent, née en 2485.
+description : Description physique, intellectuelle, du caractère du Personnage en quelques phrases.
+fonction : Fonction dans le Peuple ou auprès des homins, ce que le Personnage fait habituellement.
+historique : Rapide historique (si nécessaire au récit ou au caractère du Personnage) sous forme de phrases, mentionner certains moments clés de sa vie ou au contraire un évènement connu ou qui mériterait de l'être pour mieux comprendre le Personnage. Ce qui a été dit de ou par ce Personnage sur lui-même, sur son histoire personnelle, doit être retranscrit ici afin de ne pas en perdre la trace et se contredire.
+compte : compte EG ou EM utilisé
+slot : slot utilisé sur le compte, de la forme slot#x
+niveau : ses niveaux, par exemple : "Aucun niveau Up et n'est pas boosté." ou alors "A un niveau 250 en combat et sa Vie, et son Endurance ont été boostées à 20 000."
+equipement : son équipement, par exemple : Equipé d'une armure légère Drogeus rouge (Q10) avec une robe du même type.
